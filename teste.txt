@@ -1,3 +1,3 @@
-testando o git, farei o teste do pull pra tirar uma dúvida.
-agora estou fazendo uma nova alteração para teste
-vou preparar a terceira alteração para teste aqui.
+É comum na maior parte do tempo possuir múltiplas variações em seu repositório Git, chamadas de branches (“ramificações”). A grosso modo, um branch é um caminho independente de desenvolvimento, uma alternativa.
+
+A princípio pode parecer fácil se perder em diversos caminhos, mas o comando git branch facilita o gerenciamento de tudo isso. Com diferentes parâmetros, é possível listar, criar ou apagar os branches.
